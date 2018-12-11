@@ -4,8 +4,7 @@ author: "Erik Ländström"
 date: "11 December 2018"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
+```{r setup, include=FALSE
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
